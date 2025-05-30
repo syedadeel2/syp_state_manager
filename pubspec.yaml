@@ -1,6 +1,6 @@
 name: syp_state_manager
 description: "Simple Yet Powerful State Manager for Flutter"
-version: 0.0.1
+version: 1.0.0
 publish_to: "https://pub.dev"
 homepage: https://github.com/syedadeel2/syp_state_manager
 
